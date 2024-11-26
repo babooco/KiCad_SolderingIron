@@ -1,0 +1,49 @@
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Diode_THT.3dshapes/Diode_Bridge_Vishay_KBPC6.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Inductor_THT.3dshapes/L_Axial_L5.3mm_D2.2mm_P7.62mm_Horizontal_Vishay_IM-1.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Coilcraft_LPS5030.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-48_7x7mm_P0.5mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Crystal.3dshapes/Resonator-2Pin_W10.0mm_H5.0mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-41_SOD81_P10.16mm_Horizontal.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_SO.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-41_SOD81_P10.16mm_Horizontal.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Coilcraft_LPS5030.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-223.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Buzzer_Beeper.3dshapes/Buzzer_12x9.5RM7.6.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/LED_SMD.3dshapes/LED_0805_2012Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_SPST_EVQPE1.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/CP_Radial_D5.0mm_P2.50mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-2_P5.00mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/TerminalBlock_Altech.3dshapes/Altech_AK300_1x02_P5.00mm_45-Degree.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-220-3_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl
+[('D2', '${KISYS3DMOD}/Diode_THT.3dshapes/Diode_Bridge_Vishay_KBPC6.wrl'), ('L3', '${KISYS3DMOD}/Inductor_THT.3dshapes/L_Axial_L5.3mm_D2.2mm_P7.62mm_Horizontal_Vishay_IM-1.wrl'), ('U5', '/usr/share/kicad/3dmodels/Package_SO.3dshapes/SO-14_3.9x8.65mm_P1.27mm.wrl'), ('L1', '${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Coilcraft_LPS5030.wrl'), ('J1', '${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.wrl'), ('U1', '${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-48_7x7mm_P0.5mm.wrl'), ('Y1', '${KISYS3DMOD}/Crystal.3dshapes/Resonator-2Pin_W10.0mm_H5.0mm.wrl'), ('D3', '${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-41_SOD81_P10.16mm_Horizontal.wrl'), ('U3', '${KISYS3DMOD}/Package_SO.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.wrl'), ('D4', '${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-41_SOD81_P10.16mm_Horizontal.wrl'), ('L2', '${KISYS3DMOD}/Inductor_SMD.3dshapes/L_Coilcraft_LPS5030.wrl'), ('U2', '${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-223.wrl'), ('BZ1', '${KISYS3DMOD}/Buzzer_Beeper.3dshapes/Buzzer_12x9.5RM7.6.wrl'), ('D1', '${KISYS3DMOD}/LED_SMD.3dshapes/LED_0805_2012Metric.wrl'), ('J3', '${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Vertical.wrl'), ('SW1', '${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_SPST_EVQPE1.wrl'), ('C9', '${KISYS3DMOD}/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.wrl'), ('C8', '${KISYS3DMOD}/Capacitor_THT.3dshapes/CP_Radial_D5.0mm_P2.50mm.wrl'), ('F1', '${KISYS3DMOD}/Fuse.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open.wrl'), ('RV2', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl'), ('RV3', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl'), ('J2', '${KISYS3DMOD}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-2_P5.00mm.wrl'), ('J2', '${KISYS3DMOD}/TerminalBlock_Altech.3dshapes/Altech_AK300_1x02_P5.00mm_45-Degree.wrl'), ('Q3', '${KISYS3DMOD}/Package_TO_SOT_THT.3dshapes/TO-220-3_Vertical.wrl'), ('RV1', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl')]

@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name SI_kicad-rescue)(type Legacy)(uri ${KIPRJMOD}/SI_kicad-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "SI_kicad-rescue")(type "Legacy")(uri "${KIPRJMOD}/SI_kicad-rescue.lib")(options "")(descr ""))
 )
